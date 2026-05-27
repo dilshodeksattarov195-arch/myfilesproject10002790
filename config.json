@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycync",
+        "uuid": 19496520,
+        "checksum": "d0idm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
